@@ -1,0 +1,54 @@
+.btn-danger.active  {
+    color: white !important;  
+    }
+
+.tow-table table th,
+.tow-table table td {
+/*border-color: #bd1212 !important;*/
+/*line-height: 7px !important;*/
+
+}
+
+/*.tow-table-columns td:nth-child(1) {
+width: 120px;
+}*/
+
+.tow-table-rounded table {
+border-collapse: collapse;
+border-radius: 15px;
+border-style: hidden !important;
+box-shadow: 0 0 0 1px #bd1212; 
+}
+
+.tow-table-tabs  table {
+border-collapse: collapse;
+box-shadow: 0 0 0 1px black !important;
+line-height: 7px !important;
+
+}
+
+.tow-table-tabs  table strong {
+border-collapse: collapse;
+color: #fe0362;
+}
+
+.tow-red-color{
+color: #bd1212 ;
+}
+
+.tow-pink-color {
+color: #fe0362;
+}
+
+.tow-green-color {
+color: #007020;
+}
+
+.tow-purple-color {
+color: #bb2c76;
+}
+
+.mx-w-95 {
+max-width: 95%;
+}
+
