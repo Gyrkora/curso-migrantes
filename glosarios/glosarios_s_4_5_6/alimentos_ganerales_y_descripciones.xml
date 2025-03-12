@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>La ciudad</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>continuous</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>20</ENTBYPAGE>
+    <ENTRIES>
+      <ENTRY>
+    <CONCEPT>carnes</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;vyann&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Las carnes son una fuente importante de proteínas&lt;br&gt;&lt;em&gt;Vyann se yon sous enpòtan de pwoteyin&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>cereales</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;sereyal&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Los cereales son ricos en fibra&lt;br&gt;&lt;em&gt;Sereyal yo rich an fib&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>verduras</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;legim&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Las verduras son esenciales en una dieta balanceada&lt;br&gt;&lt;em&gt;Legim esansyèl nan yon rejim balanse&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>pescados</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pwason&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Los pescados contienen ácidos grasos saludables&lt;br&gt;&lt;em&gt;Pwason gen asid gra ki bon pou sante&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>lácteos</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pwodwi letye&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Los lácteos son ricos en calcio&lt;br&gt;&lt;em&gt;Pwodwi letye rich an kalsyòm&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>frutas</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;fwi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Las frutas son ricas en vitaminas y minerales&lt;br&gt;&lt;em&gt;Fwi rich an vitamin ak mineral&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>legumbres</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;legim sèch&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Las legumbres son una excelente fuente de proteínas vegetales&lt;br&gt;&lt;em&gt;Legim sèch se yon bon sous pwoteyin legim&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>bebestibles</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;bwason&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Los bebestibles fríos son refrescantes en verano&lt;br&gt;&lt;em&gt;Bwason frèt frekan nan sezon lete&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>huevos</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;ze&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Los huevos son una fuente de proteínas importante&lt;br&gt;&lt;em&gt;Ze se yon sous pwoteyin enpòtan&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>hamburguesas</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;anbègè&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Las hamburguesas son populares en comidas rápidas&lt;br&gt;&lt;em&gt;Anbègè popilè nan manje vit&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>embutidos</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;sosis&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Los embutidos suelen comerse en bocadillos&lt;br&gt;&lt;em&gt;Sosis yo souvan manje nan sandwich&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>fritura</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;fri&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La fritura debe comerse con moderación&lt;br&gt;&lt;em&gt;Fri ta dwe manje avèk modération&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>grasas</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;grès&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Las grasas saludables son esenciales para el cuerpo&lt;br&gt;&lt;em&gt;Grès ki bon pou sante enpòtan pou kò a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>leche</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;lèt&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La leche es rica en calcio&lt;br&gt;&lt;em&gt;Lèt rich an kalsyòm&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>intolerante a la lactosa</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;entoleran ak laktoz&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Soy intolerante a la lactosa y no puedo tomar leche&lt;br&gt;&lt;em&gt;Mwen entoleran ak laktoz e mwen pa ka bwè lèt&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>harina</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;farin&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La harina es un ingrediente básico en la panadería&lt;br&gt;&lt;em&gt;Farin se yon engredyan debaz nan boulanjri&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>alimentos procesados</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;manje trete&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Los alimentos procesados suelen contener conservantes&lt;br&gt;&lt;em&gt;Manje trete souvan gen konsèvan&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>huevos revueltos</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;ze melanje&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Me gustan los huevos revueltos en el desayuno&lt;br&gt;&lt;em&gt;Mwen renmen ze melanje nan manje maten&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>café</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;kafe&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Me gusta tomar café por la mañana&lt;br&gt;&lt;em&gt;Mwen renmen bwè kafe nan maten&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>chocolate caliente</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;chokola cho&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El chocolate caliente es perfecto para el invierno&lt;br&gt;&lt;em&gt;Chokola cho a pafè pou sezon ivè&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>pan</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El pan fresco es delicioso en el desayuno&lt;br&gt;&lt;em&gt;Pen fre a bon gou nan manje maten&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>mantequilla</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;mantèg&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Me gusta poner mantequilla en el pan tostado&lt;br&gt;&lt;em&gt;Mwen renmen mete mantèg sou pen griye&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>queque</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;gato&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Preparé un queque de chocolate para la fiesta&lt;br&gt;&lt;em&gt;Mwen te prepare yon gato chokola pou fèt la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>jugo</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;ji&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Me gusta tomar jugo de naranja en el desayuno&lt;br&gt;&lt;em&gt;Mwen renmen bwè ji zoranj nan manje maten&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>el desayuno</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;manje maten&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El desayuno es la comida más importante del día&lt;br&gt;&lt;em&gt;Manje maten se manje ki pi enpòtan nan jounen an&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>el almuerzo</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;manje midi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Normalmente el almuerzo incluye una ensalada&lt;br&gt;&lt;em&gt;Anjeneral manje midi gen ladan yon salad&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>la cena</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;dine&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La cena es ligera en mi familia&lt;br&gt;&lt;em&gt;Dine lejè nan fanmi mwen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>pesquetariano</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pesketaryen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Un pesquetariano incluye pescado en su dieta, pero no carne roja&lt;br&gt;&lt;em&gt;Yon pesketaryen enkli pwason nan rejim li, men pa gen vyann wouj&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>vegano</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Una persona vegana no consume productos de origen animal&lt;br&gt;&lt;em&gt;Yon moun vegan pa konsome pwodwi ki soti nan bèt&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>vegetariano</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;vejetaryen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Los vegetarianos no comen carne, pero sí consumen lácteos y huevos&lt;br&gt;&lt;em&gt;Vejetaryen yo pa manje vyann, men yo konsome lèt ak ze&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>omnívoro</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;omnivò&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Un omnívoro consume tanto alimentos de origen animal como vegetal&lt;br&gt;&lt;em&gt;Yon omnivò konsome manje ki soti nan bèt ak plant&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>intolerante a la lactosa</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;entoleran ak laktoz&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Las personas intolerantes a la lactosa evitan productos lácteos&lt;br&gt;&lt;em&gt;Moun ki entoleran ak laktoz evite pwodwi letye&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+
+
+
+
+
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>

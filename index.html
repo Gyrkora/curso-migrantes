@@ -1,215 +1,124 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Flipbook with Turn.js</title>
 
-  <link rel="stylesheet" href="styles.css">
+    <!-- jQuery and Turn.js from CDN -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/turn.js/3/turn.min.js"></script>
 
-  <title>Bootstrap 4 Example</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
 
-  <!-- Bootstrap 4 CSS CDN -->
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+        #flipbook {
+            width: 400px;
+            height: 600px;
+            background-color: white;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+            position: relative;
+        }
 
+        .page {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            border: 1px solid #ddd;
+            box-sizing: border-box;
+            overflow: hidden;
+            background-color: white;
+        }
+
+        .page h2 {
+            margin: 0;
+            padding: 10px;
+            font-size: 24px;
+        }
+
+        .page p, .page img {
+            margin: 10px;
+            padding: 0;
+        }
+
+        @media (min-width: 900px) {
+            #flipbook {
+                width: 800px;
+            }
+        }
+    </style>
 </head>
 <body>
-  <h2>📕 Vocabulario parte II. <span
-    style="font-size: 16px; font-weight: normal;">¿Cómo están cocinados los
-    alimentos?</span></h2>
-<p dir="ltr"><br>¿Cómo están hechos los alimentos? Vamos a descubrir cómo
-  indicar la forma en que un alimento está preparado. </p>
-<p dir="ltr">Observa el siguiente diálogo:</p>
-<ul>
-  <li><span style="text-decoration: underline;">Cliente</span>: ¿En qué consiste
-    el <strong class="tow-pink-color" title="" data-toggle="tooltip"
-      data-placement="top" data-html="true" data-original-title="Menú ejecutivo:  menú especial del día, generalmente rápido y económico. Meni jounen an.
-
-    "> menú</strong> <strong class="tow-pink-color">ejecutivo</strong> ?</li>
-  <li><span style="text-decoration: underline;">Garzón</span>: El menú ejecutivo
-    consiste en una <strong class="tow-pink-color" title=""
-      data-toggle="tooltip" data-placement="top" data-html="true"
-      data-original-title="Entrada: plato inicial de una comida.
-
-    "> entrada</strong>, <strong class="tow-pink-color">un</strong> <strong
-      class="tow-pink-color" title="" data-toggle="tooltip" data-placement="top"
-      data-html="true" data-original-title="Menú ejecutivo:  menú especial del día, generalmente rápido y económico. Meni jounen an.
-
-"> plato</strong> <strong class="tow-pink-color">de fondo</strong> y un <strong
-      class="tow-pink-color" title="" data-toggle="tooltip" data-placement="top"
-      data-html="true" data-original-title="Menú ejecutivo:  menú especial del día, generalmente rápido y económico. Meni jounen an.
-
-"> postre</strong>. El jugo y el café no están incluidos.</li>
-  <li><span style="text-decoration: underline;">Cliente</span>: ¿Cuáles son las
-    opciones del día?</li>
-  <li><span style="text-decoration: underline;">Garzón</span>: Como entrada
-    tenemos una <strong>ensalada de </strong>lechuga con aguacate y tomates. El
-    plato de fondo puede ser tallarines con<strong> salsa de</strong> tomate y
-    champiñones (opción vegetariana), o, carne <strong>asada</strong> con papas 
-    <strong>cocidas</strong>. De postre tenemos<strong> pastel de</strong>
-    manzana.</li>
-  <li><span style="text-decoration: underline;">Cliente</span>: Todo parece muy
-    delicioso. Hoy voy a comer la aplicación vegetariana. Gracias.</li>
-</ul>
-<p><!-- the tabs start --></p>
-<!-- SECOND TAB CONTAINER  -->
-<div class="container mt-4 ">
-  <ul id="pills-tab" class="nav nav-pills rounded bg-light border border-dark "
-    role="tablist">
-    <li class="nav-item"><a id="pills-home-tab"
-        class="nav-link  active btn-danger " style="color: black;" tabindex="0"
-        role="tab" href="#pills-content2" data-toggle="pill"
-        aria-controls="pills-home" aria-selected="true">Preparación</a></li>
-    <li class="nav-item"><a id="pills-profile-tab" class="nav-link btn-danger "
-        style="color: black;" tabindex="-1" role="tab" href="#pills-ejemplo2"
-        data-toggle="pill" aria-controls="pills-profile"
-        aria-selected="false">Ingredientes</a></li>
-  </ul>
-  <div id="pills-tabContent" class="tab-content mt-3"><!-- first tab -->
-    <div id="pills-content2" class="tab-pane fade active show" role="tabpanel"
-      aria-labelledby="pills-home-tab">
-      <ul>
-        <li><u>Preparación</u>
-          <ul>
-            <li>Usamos un <strong class="tow-red-color">adjetivo</strong> que
-              explica cómo es preparado este alimento. El adjetivo viene de un
-              verbo relacionado con cocina. Gramaticalmente, se trata del
-              participio del verbo.<br><em>Nou itilize yon adjektif ki eksplike
-                kijan manje sa a prepare. Adjektif la soti nan yon vèb ki gen
-                rapò ak kwit manje. Gramatikalman, se patisip vèb la.</em>
-              <div class="text-center mt-4">
-                <p><strong class="tow-pink-color" title="" data-toggle="tooltip"
-                    data-placement="top" data-html="true"
-                    data-original-title="griye"> Asar</strong> →
-                  as<strong>ado<br></strong><strong class="tow-pink-color"
-                    style="font-size: 1rem;" title="" data-toggle="tooltip"
-                    data-placement="top" data-html="true"
-                    data-original-title="kwit">Cocer </strong><span
-                    style="font-size: 1rem;"> → coc</span><strong
-                    style="font-size: 1rem;">ido<br></strong><strong
-                    class="tow-pink-color" style="font-size: 1rem;" title=""
-                    data-toggle="tooltip" data-placement="top" data-html="true"
-                    data-original-title="bouyi">Hervir </strong><span
-                    style="font-size: 1rem;"> → herv</span><strong
-                    style="font-size: 1rem;">ido<br></strong><strong
-                    class="tow-pink-color" style="font-size: 1rem;" title=""
-                    data-toggle="tooltip" data-placement="top" data-html="true"
-                    data-original-title="fri">Freír </strong><span
-                    style="font-size: 1rem;"> → </span><strong
-                    style="font-size: 1rem;">frito<br></strong><strong
-                    class="tow-pink-color" style="font-size: 1rem;" title=""
-                    data-toggle="tooltip" data-placement="top" data-html="true"
-                    data-original-title="sote">Saltear </strong><span
-                    style="font-size: 1rem;"> → salte</span><strong
-                    style="font-size: 1rem;">ado<br></strong><strong
-                    class="tow-pink-color" style="font-size: 1rem;" title=""
-                    data-toggle="tooltip" data-placement="top" data-html="true"
-                    data-original-title="brase">Revolver </strong><span
-                    style="font-size: 1rem;"> → </span><strong
-                    style="font-size: 1rem;">revuelto<br></strong><strong
-                    class="tow-pink-color" style="font-size: 1rem;" title=""
-                    data-toggle="tooltip" data-placement="top" data-html="true"
-                    data-original-title=" fè boulanje">Hornear </strong><span
-                    style="font-size: 1rem;"> → horne</span><strong
-                    style="font-size: 1rem;">ado</strong></p>
-                <p></p>
-                <p></p>
-                <div class="h5p-placeholder" contenteditable="false">
-                  https://www.aulatow.com/draftfile.php/32/user/draft/393616027/drag-the-words-1184.h5p
-                </div>
-                <p></p>
-              </div>
-            </li>
-            <li dir="ltr" aria-level="1">
-              <p>Usamos la estructura “<strong class="tow-red-color">al +
-                  sustantivo masculino</strong>” y “<strong
-                  class="tow-red-color">a + la sustantivo femenino</strong>“
-                para hablar del modo o estilo de preparación.</p>
-              <p dir="ltr">Nou itilize estrikti “al / a la + non” pou pale de
-                fason oswa stil preparasyon an.</p>
-              <div class="text-center mt-4">
-                <p>Pollo <strong class="tow-red-color">al</strong>
-                  horno<br>Carne <strong class="tow-red-color">a la</strong>
-                  cacerola<br>Tacos <strong class="tow-red-color">a la</strong>
-                  mexicana<br>Salsa <strong class="tow-red-color">al</strong>
-                  ajo<br>Pescado <strong class="tow-red-color">a la
-                  </strong>plancha</p>
-                <p></p>
-              </div>
-            </li>
-          </ul>
-        </li>
-      </ul>
+    <div id="flipbook">
+        <div class="page">
+            <h2>Page 1</h2>
+            <p>Welcome to the flipbook! Click or swipe to flip pages.</p>
+        </div>
+        <div class="page">
+            <h2>Page 2</h2>
+            <img src="https://via.placeholder.com/300x200" alt="Example Image">
+        </div>
+        <div class="page">
+            <h2>Page 3</h2>
+            <p>This is another page with some text content.</p>
+        </div>
+        <div class="page">
+            <h2>Page 4</h2>
+            <img src="https://via.placeholder.com/300x200" alt="Another Image">
+        </div>
     </div>
-    <!-- Second tab -->
-    <div id="pills-ejemplo2" class="tab-pane fade" role="tabpanel"
-      aria-labelledby="pills-profile-tab">
-      <ul>
-        <li><u>Ingredientes principales</u>
-          <ul>
-            <li>Hablamos del tipo de comida usando la preprosición “<strong
-                class="tow-red-color">de</strong>” y el ingrediente principal.
-              <em><br>N Nou pale de kalite manje a lè nou itilize prepozisyon
-                'de' ak engredyan prensipal la. </em>
-              <p></p>
-              <div class="text-center">
-                <p>🍽️ Plato <strong class="tow-red-color">de</strong> +
-                  ingrediente<br>🥤 Jugo <strong
-                    class="tow-red-color">de</strong> + ingrediente<br>🥗
-                  Ensalada <strong class="tow-red-color">de</strong> +
-                  ingrediente<br>🥫 Salsa <strong
-                    class="tow-red-color">de</strong> + ingrediente<br>🧁
-                  Postre/ Pastel/ Queque <strong
-                    class="tow-red-color">de</strong> + ingrediente<br>🍦 Helado
-                  <strong class="tow-red-color">de</strong> + ingrediente</p>
-              </div>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-    <!-- Finish tabs -->
-  </div>
-</div>
-<h3 class="tow-red-color">📕 El verbo “gustar”</h3>
-<p><br>Usamos el verbo gustar para hablar de nuestros gustos: sobre cosas o
-  alimentos que nos dan placer.</p>
-<p>El verbo gustar es especial porque conjugamos casi únicamente en
-  <strong>tercera persona </strong>(él, ella, ellos, ellas), ya que la lógica es
-  expresar si los objetos son agradables para nosotros o no.</p>
-<p>Esto quiere decir que, dependiendo del objeto del que hablamos, la
-  conjugación puede ser plural o singular.<br><br></p>
-<p dir="ltr"><em>Nou itilize vèb "gustar" pou pale de sa nou renmen: sou bagay
-    oswa manje ki fè nou plezi.<br></em><em>Vèb "gustar" espesyal paske nou
-    konjige li prèske sèlman nan twazyèm moun (li, li, yo, yo), paske lojik la
-    se eksprime si objè yo fè nou plezi oswa ou pa.<br></em><em>Sa vle di ke,
-    selon objè nou ap pale de, konjugasyon an ka pliryèl oswa
-    sengilye.<br><br></em></p>
-<p dir="ltr">Por ejemplo:</p>
-<ul>
-  <li dir="ltr" aria-level="1">
-    <p dir="ltr" role="presentation">Singular: Me gust<strong>a</strong> <span
-        style="text-decoration: underline;">el vino</span>. No me
-      gust<strong>a</strong><span style="text-decoration: underline;"> la
-        cerveza. </span></p>
-  </li>
-  <li dir="ltr" aria-level="1">
-    <p dir="ltr" role="presentation">Plural: Me gusta<strong>n</strong> <span
-        style="text-decoration: underline;">las papas fritas</span>. No me
-      gusta<strong>n</strong> <span style="text-decoration: underline;">los
-        camarones</span>.  <br><br></p>
-  </li>
-</ul>
-<div class="h5p-placeholder" contenteditable="false">
-  https://www.aulatow.com/draftfile.php/32/user/draft/393616027/fill-in-the-blanks-1185.h5p
-</div>
-<p></p>
-<h4><strong>Actividad 3🤔 Reflexión personal …<br><br></strong></h4>
-<div class="h5p-placeholder" contenteditable="false">
-  https://www.aulatow.com/draftfile.php/32/user/draft/393616027/essay-1186.h5p
-</div>
-<h4><strong
-    id="docs-internal-guid-07e9ba90-7fff-3cdf-b144-6daab8a2ca05"> </strong></h4>
+
+    <script>
+        $(document).ready(function () {
+            // Initialize the flipbook with proper settings
+            $('#flipbook').turn({
+                width: 400,
+                height: 600,
+                autoCenter: true,
+                display: 'single', // Start with single-page mode
+                duration: 600, // Flip animation duration
+                gradients: true,
+                elevation: 50
+            });
+
+            // Handle mouse click to flip pages
+            $('#flipbook').on('click', function (e) {
+                const flipbookOffset = $(this).offset();
+                const clickPosition = e.pageX - flipbookOffset.left;
+
+                if (clickPosition < $(this).width() / 2) {
+                    $('#flipbook').turn('previous'); // Go to the previous page
+                } else {
+                    $('#flipbook').turn('next'); // Go to the next page
+                }
+            });
+
+            // Update display mode based on screen size
+            function updateDisplay() {
+                const width = $(window).width();
+                if (width < 900) {
+                    $('#flipbook').turn('display', 'single');
+                    $('#flipbook').turn('size', 400, 600);
+                } else {
+                    $('#flipbook').turn('display', 'double');
+                    $('#flipbook').turn('size', 800, 600);
+                }
+            }
+
+            // Run the function on page load and window resize
+            updateDisplay();
+            $(window).resize(updateDisplay);
+        });
+    </script>
 </body>
 </html>
-
-

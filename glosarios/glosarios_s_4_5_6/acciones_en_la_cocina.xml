@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Acciones en la cocina</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>continuous</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>20</ENTBYPAGE>
+    <ENTRIES>
+      
+
+<ENTRY>
+    <CONCEPT>asar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;boukannen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 1: Esta mañana aso el pollo&lt;br&gt;&lt;em&gt;Maten sa a, mwen boukannen poul la&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 2: Me gusta el pollo asado con papas&lt;br&gt;&lt;em&gt;Mwen renmen poul boukannen ak pòmdetè&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>cocer</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;kwit&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 1: Voy a cocer las verduras para la cena&lt;br&gt;&lt;em&gt;Mwen pral kwit legim yo pou dine a&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 2: Me gustan los vegetales cocidos&lt;br&gt;&lt;em&gt;Mwen renmen legim ki kwit&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>hervir</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;bouyi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 1: Necesito hervir el agua para el té&lt;br&gt;&lt;em&gt;Mwen bezwen bouyi dlo a pou te a&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 2: Prefiero el agua hervida&lt;br&gt;&lt;em&gt;Mwen prefere dlo bouyi&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>freír</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;fri&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 1: Voy a freír las papas&lt;br&gt;&lt;em&gt;Mwen pral fri pòmdetè yo&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 2: Me encantan las papas fritas&lt;br&gt;&lt;em&gt;Mwen renmen pòmdetè fri&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>saltear</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;sote&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 1: Esta tarde voy a saltear los champiñones&lt;br&gt;&lt;em&gt;Apremidi a, mwen pral sote chanpiyon yo&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 2: Prefiero los vegetales salteados&lt;br&gt;&lt;em&gt;Mwen prefere legim sote&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>revolver</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;melanje&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 1: Necesito revolver la sopa&lt;br&gt;&lt;em&gt;Mwen bezwen melanje soup la&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 2: Me gusta el huevo revuelto&lt;br&gt;&lt;em&gt;Mwen renmen ze melanje&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>hornear</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;foube&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 1: Voy a hornear un pastel hoy&lt;br&gt;&lt;em&gt;Mwen pral foube yon gato jodi a&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo 2: Me gusta el pan horneado en casa&lt;br&gt;&lt;em&gt;Mwen renmen pen foube lakay&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>mezclar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;melanje&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Debo mezclar los ingredientes para la salsa&lt;br&gt;&lt;em&gt;Mwen dwe melanje engredyan yo pou sòs la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>aplanar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;plati&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Necesito aplanar la masa con el rodillo&lt;br&gt;&lt;em&gt;Mwen bezwen plati pat la ak woulo a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>cocinar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;kwit manje&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta noche voy a cocinar para mi familia&lt;br&gt;&lt;em&gt;Aswè a, mwen pral kwit manje pou fanmi mwen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>abrir</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;ouvri&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Voy a abrir una lata de tomates&lt;br&gt;&lt;em&gt;Mwen pral ouvri yon bwat tomat&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+<ENTRY>
+    <CONCEPT>mezclar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;melanje&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Debo mezclar la harina con el agua&lt;br&gt;&lt;em&gt;Mwen dwe melanje farin lan ak dlo a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>amasar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pétrir&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Voy a amasar la masa para el pan&lt;br&gt;&lt;em&gt;Mwen pral pétrir pat la pou pen an&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>esperar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;tann&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Necesito esperar a que la masa suba&lt;br&gt;&lt;em&gt;Mwen bezwen tann pou pat la monte&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>beber</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;bwè&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Me gusta beber agua fría&lt;br&gt;&lt;em&gt;Mwen renmen bwè dlo frèt&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>tomar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pran&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Voy a tomar un jugo de naranja&lt;br&gt;&lt;em&gt;Mwen pral pran yon ji zoranj&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>comer</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;mange&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Vamos a comer ensalada esta noche&lt;br&gt;&lt;em&gt;Nou pral manje salad aswè a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>desayunar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pran manje maten&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Desayuno café con pan todos los días&lt;br&gt;&lt;em&gt;Mwen pran manje maten ak kafe ak pen chak jou&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>almorzar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pran manje midi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Hoy voy a almorzar pasta&lt;br&gt;&lt;em&gt;Jodi a, mwen pral pran manje midi ak pasta&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>cenar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pran dine&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Cenamos en familia los fines de semana&lt;br&gt;&lt;em&gt;Nou pran dine an fanmi nan fen semèn&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+
+
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>

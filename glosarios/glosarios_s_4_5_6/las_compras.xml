@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Las compras</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>continuous</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>20</ENTBYPAGE>
+    <ENTRIES>
+      <ENTRY>
+        <CONCEPT>vendedora</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;madanm ki vann&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La vendedora es amable&lt;br&gt;&lt;em&gt;Madanm ki vann nan janti&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>clienta</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;kliyant&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La clienta compra una manzana&lt;br&gt;&lt;em&gt;Kliyant la achte yon pòm&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>vender</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;vann&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Quiero vender frutas&lt;br&gt;&lt;em&gt;Mwen vle vann fwi&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>comprar</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;achte&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Voy a comprar pan&lt;br&gt;&lt;em&gt;Mwen pral achte pen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>producto</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;pwodui&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El producto es nuevo&lt;br&gt;&lt;em&gt;Pwodui a se nouvo&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>precio</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;pri&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El precio es alto&lt;br&gt;&lt;em&gt;Pri a wo&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>caja</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;bwat&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La caja está llena&lt;br&gt;&lt;em&gt;Bwat la plen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+  
+    <ENTRY>
+    <CONCEPT>cajera</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;madam kachye&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La cajera no tiene cambio ahora&lt;br&gt;&lt;em&gt;Madam kachye a pa gen chanj kounye a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>trabajador del local</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;travayè nan magazen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El trabajador del local ayuda a los clientes&lt;br&gt;&lt;em&gt;Travayè nan magazen an ede kliyant yo&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>dinero</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;lajan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: ¿Cuánto dinero necesitas para comprar esto?&lt;br&gt;&lt;em&gt;Konbyen lajan ou bezwen pou achte sa?&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>dinero en efectivo</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;lajan kach&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Hoy sólo aceptamos dinero en efectivo&lt;br&gt;&lt;em&gt;Jodi a, nou sèlman aksepte lajan kach&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>boleta</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;fakti&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Guarde la boleta para hacer un cambio&lt;br&gt;&lt;em&gt;Kenbe fakti a pou fè yon chanjman&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>cambio</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;chanj&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Necesito cambio para pagar el bus&lt;br&gt;&lt;em&gt;Mwen bezwen chanj pou peye bis la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>billete</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;bilten&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: ¿Tienes un billete de cinco pesos?&lt;br&gt;&lt;em&gt;Ou gen yon bilten senk peso?&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>moneda</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pyès lajan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Sólo tengo monedas para el café&lt;br&gt;&lt;em&gt;Mwen sèlman gen pyès lajan pou kafe a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>transferencia</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;transfè&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Hice una transferencia para pagar las compras&lt;br&gt;&lt;em&gt;Mwen fè yon transfè pou peye acha yo&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>tarjeta de crédito</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;kat kredi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: No puedo pagar con tarjeta de crédito aquí&lt;br&gt;&lt;em&gt;Mwen pa ka peye ak kat kredi isit la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>tarjeta de débito</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;kat debi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Prefiero usar mi tarjeta de débito&lt;br&gt;&lt;em&gt;Mwen prefere itilize kat debi mwen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>oferta</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;of&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Aprovecha la oferta de hoy en frutas&lt;br&gt;&lt;em&gt;Pran avantaj of jodi a nan fwi yo&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>promoción</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;pwomosyon&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Hay una promoción de dos por uno en bebidas&lt;br&gt;&lt;em&gt;Gen yon pwomosyon de pou youn nan bwason&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+<ENTRY>
+    <CONCEPT>costar</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;koute&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: ¿Cuánto cuesta esta camisa?&lt;br&gt;&lt;em&gt;Konbyen sa a koute?&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>valer</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;valè&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: ¿Cuánto vale este teléfono?&lt;br&gt;&lt;em&gt;Konbyen telefòn sa a vo?&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>salir</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;soti&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: ¿Cuánto sale el kilo de naranjas?&lt;br&gt;&lt;em&gt;Konbyen yon kilo zoranj la soti?&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>estar a</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;ye a&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Estas zapatillas están a 40.000 pesos&lt;br&gt;&lt;em&gt;Soulye sa yo ye a 40,000 peso&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>ser</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;se&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: ¿Cuánto es en total?&lt;br&gt;&lt;em&gt;Konbyen sa ye an total?&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+<ENTRY>
+    <CONCEPT>euro</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;ero&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El precio es cinco euros&lt;br&gt;&lt;em&gt;Pri a se senk ero&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>boliviano</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;bolivyen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La entrada cuesta diez bolivianos&lt;br&gt;&lt;em&gt;Antre a koute dis bolivyen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>real</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;reyal&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta camisa vale veinte reales&lt;br&gt;&lt;em&gt;Chemiz sa a vo ven reyal&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>guaraní</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;gouarani&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Un kilo de azúcar cuesta cinco mil guaraníes&lt;br&gt;&lt;em&gt;Yon kilo sik koute senk mil gouarani&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>dólar guyanés</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;dola gwiyane&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El hotel cuesta mil dólares guyaneses&lt;br&gt;&lt;em&gt;Otel la koute mil dola gwiyane&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+<ENTRY>
+    <CONCEPT>peso uruguayo</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;peso irigweyen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El almuerzo cuesta trescientos pesos uruguayos&lt;br&gt;&lt;em&gt;Manje midi a koute twa san peso irigweyen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>peso colombiano</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;peso kolonbyen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El café vale mil pesos colombianos&lt;br&gt;&lt;em&gt;Kafe a vo mil peso kolonbyen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>sol</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;sol&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta bebida cuesta cinco soles&lt;br&gt;&lt;em&gt;Bwason sa a koute senk sol&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>bolívar soberano</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;bolivar souveren&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El libro cuesta veinte bolívares soberanos&lt;br&gt;&lt;em&gt;Liv la koute ven bolivar souveren&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+<ENTRY>
+    <CONCEPT>dólar estadounidense</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;dola ameriken&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El teléfono cuesta quinientos dólares estadounidenses&lt;br&gt;&lt;em&gt;Telefòn nan koute senk san dola ameriken&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>dólar surinamés</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;dola suriname&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El vestido vale ochenta dólares surinameses&lt;br&gt;&lt;em&gt;Ròb la vo katreven dola suriname&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>peso chileno</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;peso chilyen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta comida cuesta mil pesos chilenos&lt;br&gt;&lt;em&gt;Manje sa a koute mil peso chilyen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>peso argentino</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;peso ajannten&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Un boleto de bus vale quinientos pesos argentinos&lt;br&gt;&lt;em&gt;Yon tikè bis vo senk san peso ajannten&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+
+
+  </ENTRIES>
+
+
+  </INFO>
+</GLOSSARY>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>La ciudad</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>continuous</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>20</ENTBYPAGE>
+    <ENTRIES>
+      <ENTRY>
+        <CONCEPT>semáforo</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;siyal limyè&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: el semáforo está en rojo&lt;br&gt;&lt;em&gt;Siyal limyè a wouj&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>comercio</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;biznis&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El comercio está cerrado&lt;br&gt;&lt;em&gt;Biznis la fèmen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>banco</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;banc&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Voy al banco a depositar dinero&lt;br&gt;&lt;em&gt;M&#039;ap ale nan bank pou depoze lajan&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>mercado</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;mache&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El mercado está muy concurrido hoy&lt;br&gt;&lt;em&gt;Mache a plen anpil moun jodi a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>puesto de salud</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;pòs sante&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Necesito ir al puesto de salud para un chequeo&lt;br&gt;&lt;em&gt;Mwen bezwen ale nan pòs sante pou yon chèk-sante&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>comisaría</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;komisarya&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Debo ir a la comisaría a hacer una denuncia&lt;br&gt;&lt;em&gt;Mwen dwe ale nan komisarya pou fè yon plent&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>feria</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;fè&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Hoy en la feria hay muchas ofertas&lt;br&gt;&lt;em&gt;Jodi a nan fè a gen anpil òf&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>hotel</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;lotèl&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Nos quedamos en un hotel cerca del mar&lt;br&gt;&lt;em&gt;Nou rete nan yon lotèl toupre lanmè a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>paso peatonal</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;pase pyeton&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El paso peatonal está cerca de la escuela&lt;br&gt;&lt;em&gt;Pase pyeton an toupre lekòl la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>vereda</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;twotwa&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La vereda está muy limpia&lt;br&gt;&lt;em&gt;Twotwa a trè pwòp&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>calle</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;ri&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La calle está llena de autos&lt;br&gt;&lt;em&gt;Ri a plen machin&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>barrio</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;kartye&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Vivo en un barrio tranquilo&lt;br&gt;&lt;em&gt;Mwen rete nan yon kartye trankil&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>esquina</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;kòn&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Nos vemos en la esquina de la calle principal&lt;br&gt;&lt;em&gt;Nou pral rankontre nan kòn ri prensipal la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>plaza</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;plas&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La plaza está llena de gente hoy&lt;br&gt;&lt;em&gt;Plas la plen moun jodi a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>parada de bus</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;estasyon bis&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Estoy esperando en la parada de bus&lt;br&gt;&lt;em&gt;Mwen ap tann nan estasyon bis la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>edificio</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;bilding&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El edificio es muy alto&lt;br&gt;&lt;em&gt;Bilding lan trè wo&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>avenida</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;avni&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La avenida está llena de tiendas&lt;br&gt;&lt;em&gt;Avni a plen magazen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+        
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>centro</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;sant vil&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El centro de la ciudad está muy concurrido&lt;br&gt;&lt;em&gt;Sant vil la trè chaje&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>parque infantil</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;pak timoun&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El parque infantil tiene muchos juegos&lt;br&gt;&lt;em&gt;Pak timoun nan gen anpil jwèt&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>teatro</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;teyat&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Vamos al teatro a ver una obra&lt;br&gt;&lt;em&gt;Nou pral nan teyat pou gade yon pyès&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>cafetería</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;kafeteri&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Vamos a la cafetería a tomar un café&lt;br&gt;&lt;em&gt;Nou pral nan kafeteri pou pran yon kafe&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>farmacia</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;famasi&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Debo ir a la farmacia a comprar medicinas&lt;br&gt;&lt;em&gt;Mwen dwe ale nan famasi pou achte medikaman&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>estadio</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;estadyòm&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El partido será en el estadio nacional&lt;br&gt;&lt;em&gt;Match la ap fèt nan estadyòm nasyonal la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>biblioteca</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;bibliyotèk&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Voy a la biblioteca a estudiar&lt;br&gt;&lt;em&gt;M&#039;ap ale nan bibliyotèk pou etidye&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>
+
+<!-- Vocabulario que se puede agregar 
+
+
+Centro cultural
+Museo
+Restaurante
+Hospital
+Universidad
+Escuela
+Gimnasio
+Cine
+Iglesia
+Oficina de correos
+Lavandería
+Estación de tren
+Estación de metro
+Puerto
+
+
+
+ -->

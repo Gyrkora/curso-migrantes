@@ -1,0 +1,242 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>La ciudad</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>continuous</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>20</ENTBYPAGE>
+    <ENTRIES>
+      <ENTRY>
+  <CONCEPT>peligrosa</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;danjere&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta parte de la ciudad es muy peligrosa por la noche&lt;br&gt;&lt;em&gt;Pati sa a nan vil la trè danjere lannwit&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>segura</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;san danje&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Este barrio es muy seguro para caminar&lt;br&gt;&lt;em&gt;Katye sa a trè san danje pou mache&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>grande</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;gwo&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La ciudad es muy grande y tiene muchos edificios&lt;br&gt;&lt;em&gt;Vil la trè gwo epi li gen anpil bilding&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>pequeña</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;ti&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Este pueblo es muy pequeño y tranquilo&lt;br&gt;&lt;em&gt;Vilaj sa a trè ti epi trankil&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>antigua</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;ansyen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta es una ciudad antigua con muchos monumentos&lt;br&gt;&lt;em&gt;Sa se yon vil ansyen ki gen anpil moniman&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>moderna</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;modèn&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La ciudad tiene una arquitectura muy moderna&lt;br&gt;&lt;em&gt;Vil la gen yon achitekti trè modèn&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>caótica</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;kaotik&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El tráfico en esta ciudad es muy caótico&lt;br&gt;&lt;em&gt;Trafik la nan vil sa a trè kaotik&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>organizada</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;òganize&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La ciudad está muy bien organizada&lt;br&gt;&lt;em&gt;Vil la byen òganize&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>barata</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;bon mache&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El transporte público en esta ciudad es muy barato&lt;br&gt;&lt;em&gt;Transpò piblik nan vil sa a bon mache anpil&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>cara</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;chè&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta ciudad es muy cara para vivir&lt;br&gt;&lt;em&gt;Vil sa a trè chè pou viv ladan li&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>activa</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;aktif&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta ciudad es muy activa, siempre hay algo que hacer&lt;br&gt;&lt;em&gt;Vil sa a trè aktif, toujou gen yon bagay pou fè&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>relajada</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;relaks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Este pueblo es muy relajado y tranquilo&lt;br&gt;&lt;em&gt;Vilaj sa a trè relaks epi trankil&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>peligrosa</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;danjere&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta parte de la ciudad es muy peligrosa por la noche&lt;br&gt;&lt;em&gt;Pati sa a nan vil la trè danjere lannwit&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>segura</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;san danje&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Este barrio es muy seguro para caminar&lt;br&gt;&lt;em&gt;Katye sa a trè san danje pou mache&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>calurosa</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;cho&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La ciudad es muy calurosa en verano&lt;br&gt;&lt;em&gt;Vil la cho anpil pandan sezon ete a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>fría</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;frèt&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La ciudad es muy fría en invierno&lt;br&gt;&lt;em&gt;Vil la frèt anpil pandan sezon ivè a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>limpia</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;pwòp&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Las calles de esta ciudad siempre están muy limpias&lt;br&gt;&lt;em&gt;Lari nan vil sa a toujou pwòp anpil&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>sucia</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;sali&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Las calles de esta ciudad están llenas de basura&lt;br&gt;&lt;em&gt;Lari nan vil sa a plen fatra&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>rural</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;rural&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta región es muy rural y tiene pocas carreteras&lt;br&gt;&lt;em&gt;Rejyon sa a trè rural epi li gen kèk wout&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>urbana</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;ibèn&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta ciudad tiene muchas zonas urbanas&lt;br&gt;&lt;em&gt;Vil sa a gen anpil zòn ibèn&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>

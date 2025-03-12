@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>La ciudad</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>continuous</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>20</ENTBYPAGE>
+    <ENTRIES>
+     
+     <ENTRY>
+  <CONCEPT>girar/doblar a la izquierda</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;tounen a goch&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Gira a la izquierda en la esquina&lt;br&gt;&lt;em&gt;Tounen a goch nan kòn nan&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>girar/doblar a la derecha</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;tounen a dwat&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Gira a la derecha en la avenida principal&lt;br&gt;&lt;em&gt;Tounen a dwat nan avni prensipal la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>cruzar</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;travèse&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Cruza la calle en el paso peatonal&lt;br&gt;&lt;em&gt;Travèse ri a nan pase pyeton an&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>bajar</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;desann&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Baja en la siguiente parada&lt;br&gt;&lt;em&gt;Desann nan pwochen estasyon an&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>subir</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;monte&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Sube por la calle hasta el parque&lt;br&gt;&lt;em&gt;Monte sou ri a jiskaske ou rive nan pak la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>llegar (a)</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;rive&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Llega al edificio y espera en la entrada&lt;br&gt;&lt;em&gt;Rive nan bilding lan epi tann nan antre a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>parar</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;kanpe&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Para en la esquina antes de cruzar&lt;br&gt;&lt;em&gt;Kanpe nan kòn nan anvan ou travèse&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>dar la vuelta</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;fè bak/tounen anro&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Da la vuelta en la próxima calle&lt;br&gt;&lt;em&gt;Fè bak nan pwochen ri a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>entrar</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;antre&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Entra en el edificio por la puerta principal&lt;br&gt;&lt;em&gt;Antre nan bilding lan pa pòt prensipal la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>salir</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;soti&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Sal por la puerta lateral del edificio&lt;br&gt;&lt;em&gt;Soti pa pòt lateral bilding lan&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>tomar la primera calle a la izquierda</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;pran premye ri a sou bò goch&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Toma la primera calle a la izquierda después del semáforo&lt;br&gt;&lt;em&gt;Pran premye ri a sou bò goch apre siy limyè a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>seguir derecho hasta</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;kontinye dwat jiskaske&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Sigue derecho hasta el final de la avenida&lt;br&gt;&lt;em&gt;Kontinye dwat jiskaske ou rive nan fen avni a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+     
+
+
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>

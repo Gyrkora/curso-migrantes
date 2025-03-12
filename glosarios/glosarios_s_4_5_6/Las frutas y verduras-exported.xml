@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Las frutas y verduras</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>continuous</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>20</ENTBYPAGE>
+    <ENTRIES>
+      <ENTRY>
+        <CONCEPT>manzana</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;pòm&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Quiero comer una manzana&lt;br&gt;&lt;em&gt;Mwen vle manje yon pòm&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>naranja</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;zoranj&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La naranja es muy dulce&lt;br&gt;&lt;em&gt;Zoranj la dous anpil&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>plátano</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;bannann&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Los plátanos están maduros&lt;br&gt;&lt;em&gt;Bannann yo mi&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>fresa</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;frez&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;opsyonèl: frutilla&lt;/p&gt;
+&lt;p&gt;Ejemplo: Me gusta la fresa en los postres&lt;br&gt;&lt;em&gt;Mwen renmen frez nan desè yo&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+        <ALIASES>
+          <ALIAS>
+            <NAME>frutilla</NAME>
+          </ALIAS>
+        </ALIASES>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>uva</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;rezen&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Las uvas son pequeñas y dulces&lt;br&gt;&lt;em&gt;Rezen yo piti ak dous&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>piña</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;anana&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La piña es refrescante en verano&lt;br&gt;&lt;em&gt;Anana a frekan nan sezon lete&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>mango</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;mango&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El mango es una fruta tropical&lt;br&gt;&lt;em&gt;Mango a se yon fwi twopikal&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>sandía</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;melon dlo&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La sandía es perfecta para el verano&lt;br&gt;&lt;em&gt;Melon dlo a pafè pou sezon lete&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>banana</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;banann&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La banana es rica en potasio&lt;br&gt;&lt;em&gt;Banann lan rich an potasyòm&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>melón</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;melon&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El melón es dulce y jugoso&lt;br&gt;&lt;em&gt;Melon an dous ak juicy&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>papaya</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;papay&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La papaya es ideal para el desayuno&lt;br&gt;&lt;em&gt;Papay la ideyal pou manje maten&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>kiwi</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;kiwi&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El kiwi tiene mucha vitamina C&lt;br&gt;&lt;em&gt;Kiwi a gen anpil vitamin C&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>cereza</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;seriz&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: Las cerezas son pequeñas y rojas&lt;br&gt;&lt;em&gt;Seriz yo piti ak wouj&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>limón</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;sitwon&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El limón es ácido pero refrescante&lt;br&gt;&lt;em&gt;Sitwon an asid men frekan&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>arroz</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;diri&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El arroz es un alimento básico en muchas culturas&lt;br&gt;&lt;em&gt;Diri se yon manje debaz nan anpil kilti&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>avena</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;avwàn&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La avena es ideal para el desayuno&lt;br&gt;&lt;em&gt;Avwàn se ideyal pou manje maten&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>berenjena</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;berenjèn&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La berenjena se puede asar o freír&lt;br&gt;&lt;em&gt;Berenjèn lan ka boukannen oswa fri&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>brócoli</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;bròkoli&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El brócoli es muy saludable y se puede hervir&lt;br&gt;&lt;em&gt;Bròkoli trè bon pou sante e li ka bouyi&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>cebolla</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;zonyon&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La cebolla le da sabor a las comidas&lt;br&gt;&lt;em&gt;Zonyon bay manje bon gou&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>cilantro</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;sitronèl&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El cilantro se usa mucho en ensaladas&lt;br&gt;&lt;em&gt;Sitronèl itilize anpil nan salad&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>espinaca</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;zepina&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La espinaca es rica en hierro&lt;br&gt;&lt;em&gt;Zepina rich an fè&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>lechuga</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;leti&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La lechuga es ideal para hacer ensaladas&lt;br&gt;&lt;em&gt;Leti ideyal pou fè salad&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>maní</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;kokoye&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;opsyonèl: cacahuate&lt;/p&gt;
+&lt;p&gt;Ejemplo: Me gusta el maní como merienda&lt;br&gt;&lt;em&gt;Mwen renmen kokoye kòm goute&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+        <ALIASES>
+          <ALIAS>
+            <NAME>cacahuate</NAME>
+          </ALIAS>
+        </ALIASES>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>palta</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;avoka&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;opsyonèl: aguacate&lt;/p&gt;
+&lt;p&gt;Ejemplo: La palta es muy nutritiva&lt;br&gt;&lt;em&gt;Avoka a trè nitritif&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+        <ALIASES>
+          <ALIAS>
+            <NAME>aguacate</NAME>
+          </ALIAS>
+        </ALIASES>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>tomate</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;tomat&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: El tomate se usa en muchas recetas&lt;br&gt;&lt;em&gt;Tomat itilize nan anpil resèt&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>frijoles</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;pwa&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;opsyonèl: porotos&lt;/p&gt;
+&lt;p&gt;Ejemplo: Los frijoles son ricos en proteínas&lt;br&gt;&lt;em&gt;Pwa rich an pwoteyin&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+        <ALIASES>
+          <ALIAS>
+            <NAME>porotos</NAME>
+          </ALIAS>
+        </ALIASES>
+      </ENTRY>
+      <ENTRY>
+        <CONCEPT>zanahoria</CONCEPT>
+        <DEFINITION>&lt;p&gt;&lt;em&gt;karòt&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ejemplo: La zanahoria es buena para la vista&lt;br&gt;&lt;em&gt;Karòt bon pou je&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>1</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Las monedas</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>continuous</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>20</ENTBYPAGE>
+    <ENTRIES>
+      
+
+<ENTRY>
+    <CONCEPT>euro</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;ero&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El precio es cinco euros&lt;br&gt;&lt;em&gt;Pri a se senk ero&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>boliviano</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;bolivyen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: La entrada cuesta diez bolivianos&lt;br&gt;&lt;em&gt;Antre a koute dis bolivyen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>real</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;reyal&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta camisa vale veinte reales&lt;br&gt;&lt;em&gt;Chemiz sa a vo ven reyal&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>guaraní</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;gouarani&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Un kilo de azúcar cuesta cinco mil guaraníes&lt;br&gt;&lt;em&gt;Yon kilo sik koute senk mil gouarani&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>dólar guyanés</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;dola gwiyane&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El hotel cuesta mil dólares guyaneses&lt;br&gt;&lt;em&gt;Otel la koute mil dola gwiyane&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+<ENTRY>
+    <CONCEPT>peso uruguayo</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;peso irigweyen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El almuerzo cuesta trescientos pesos uruguayos&lt;br&gt;&lt;em&gt;Manje midi a koute twa san peso irigweyen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>peso colombiano</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;peso kolonbyen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El café vale mil pesos colombianos&lt;br&gt;&lt;em&gt;Kafe a vo mil peso kolonbyen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>sol</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;sol&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta bebida cuesta cinco soles&lt;br&gt;&lt;em&gt;Bwason sa a koute senk sol&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>bolívar soberano</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;bolivar souveren&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El libro cuesta veinte bolívares soberanos&lt;br&gt;&lt;em&gt;Liv la koute ven bolivar souveren&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+<ENTRY>
+    <CONCEPT>dólar estadounidense</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;dola ameriken&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El teléfono cuesta quinientos dólares estadounidenses&lt;br&gt;&lt;em&gt;Telefòn nan koute senk san dola ameriken&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>dólar surinamés</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;dola suriname&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: El vestido vale ochenta dólares surinameses&lt;br&gt;&lt;em&gt;Ròb la vo katreven dola suriname&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>peso chileno</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;peso chilyen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Esta comida cuesta mil pesos chilenos&lt;br&gt;&lt;em&gt;Manje sa a koute mil peso chilyen&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+    <CONCEPT>peso argentino</CONCEPT>
+    <DEFINITION>&lt;p&gt;&lt;em&gt;peso ajannten&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Un boleto de bus vale quinientos pesos argentinos&lt;br&gt;&lt;em&gt;Yon tikè bis vo senk san peso ajannten&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+    <FORMAT>1</FORMAT>
+    <USEDYNALINK>1</USEDYNALINK>
+    <CASESENSITIVE>0</CASESENSITIVE>
+    <FULLMATCH>0</FULLMATCH>
+    <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+
+
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>

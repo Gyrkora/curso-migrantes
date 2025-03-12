@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Medios de transporte</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>continuous</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>20</ENTBYPAGE>
+    <ENTRIES>
+}
+<ENTRY>
+  <CONCEPT>esperar</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;tann&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Estoy esperando el bus en la parada&lt;br&gt;&lt;em&gt;Mwen ap tann bis la nan estasyon an&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>tomar</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;pran&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Mi abuelo toma siempre el mismo tren&lt;br&gt;&lt;em&gt;Granpapa mwen toujou pran menm tren an&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>subirse/bajarse</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;monte/desann&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Me subí al bus y me bajé en la última parada&lt;br&gt;&lt;em&gt;Mwen monte bis la epi mwen desann nan dènye estasyon an&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>cargar</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;chaje&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Tuvimos que cargar las maletas en el taxi&lt;br&gt;&lt;em&gt;Nou te oblije chaje valiz yo nan taksi a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>comprar</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;achte&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Necesito comprar un boleto para el metro&lt;br&gt;&lt;em&gt;Mwen bezwen achte yon tikè pou metwo a&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+<ENTRY>
+  <CONCEPT>ir</CONCEPT>
+  <DEFINITION>&lt;p&gt;&lt;em&gt;ale&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ejemplo: Vamos a ir en tren a la ciudad&lt;br&gt;&lt;em&gt;Nou pral ale nan tren pou ale nan vil la&lt;/em&gt;&lt;/p&gt;</DEFINITION>
+  <FORMAT>1</FORMAT>
+  <USEDYNALINK>1</USEDYNALINK>
+  <CASESENSITIVE>0</CASESENSITIVE>
+  <FULLMATCH>0</FULLMATCH>
+  <TEACHERENTRY>1</TEACHERENTRY>
+</ENTRY>
+
+
+
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>
